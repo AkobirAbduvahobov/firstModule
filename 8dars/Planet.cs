@@ -14,6 +14,9 @@ public class Planet
 
     public int Gravity { get; set; }
 
+
+
+
     public Planet()
     {
         

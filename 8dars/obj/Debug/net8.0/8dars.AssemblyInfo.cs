@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("8dars")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0dc26b7a741264a70909babaced0879bb1b9f50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9560df64aefda091e3e5fd10191805e8de396ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("8dars")]
 [assembly: System.Reflection.AssemblyTitleAttribute("8dars")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

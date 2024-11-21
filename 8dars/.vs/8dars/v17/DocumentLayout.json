@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{B4F1321D-8E88-491E-B517-BB2AE6AABE95}|8dars.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B4F1321D-8E88-491E-B517-BB2AE6AABE95}|8dars.csproj|d:\\projects\\.net projects(console)\\firstmodule\\8dars\\services\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F1321D-8E88-491E-B517-BB2AE6AABE95}|8dars.csproj|solutionrelative:services\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F1321D-8E88-491E-B517-BB2AE6AABE95}|8dars.csproj|d:\\projects\\.net projects(console)\\firstmodule\\8dars\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F1321D-8E88-491E-B517-BB2AE6AABE95}|8dars.csproj|solutionrelative:models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4F1321D-8E88-491E-B517-BB2AE6AABE95}|8dars.csproj|d:\\projects\\.net projects(console)\\firstmodule\\8dars\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4F1321D-8E88-491E-B517-BB2AE6AABE95}|8dars.csproj|solutionrelative:planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4F1321D-8E88-491E-B517-BB2AE6AABE95}|8dars.csproj|d:\\projects\\.net projects(console)\\firstmodule\\8dars\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4F1321D-8E88-491E-B517-BB2AE6AABE95}|8dars.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4F1321D-8E88-491E-B517-BB2AE6AABE95}|8dars.csproj|d:\\projects\\.net projects(console)\\firstmodule\\8dars\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F1321D-8E88-491E-B517-BB2AE6AABE95}|8dars.csproj|solutionrelative:services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F1321D-8E88-491E-B517-BB2AE6AABE95}|8dars.csproj|d:\\projects\\.net projects(console)\\firstmodule\\8dars\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F1321D-8E88-491E-B517-BB2AE6AABE95}|8dars.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 135,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +46,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Planet.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Planet.cs",
-              "RelativeDocumentMoniker": "Planet.cs",
-              "ToolTip": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Planet.cs",
-              "RelativeToolTip": "Planet.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "Services\\PersonService.cs",
+              "ToolTip": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Services\\PersonService.cs",
+              "RelativeToolTip": "Services\\PersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T04:20:29.13Z",
+              "WhenOpened": "2024-11-21T05:38:28.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestaurantService.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Services\\RestaurantService.cs",
+              "RelativeDocumentMoniker": "Services\\RestaurantService.cs",
+              "ToolTip": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Services\\RestaurantService.cs",
+              "RelativeToolTip": "Services\\RestaurantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:37:59.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Student.cs",
-              "RelativeDocumentMoniker": "Student.cs",
-              "ToolTip": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Student.cs",
-              "RelativeToolTip": "Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Models\\Restaurant.cs",
+              "ToolTip": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Models\\Restaurant.cs",
+              "RelativeToolTip": "Models\\Restaurant.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T04:14:08.994Z",
+              "WhenOpened": "2024-11-21T05:29:02.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:28:20.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Planet.cs",
+              "RelativeDocumentMoniker": "Planet.cs",
+              "ToolTip": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Planet.cs",
+              "RelativeToolTip": "Planet.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIA4wCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:20:29.13Z",
               "EditorCaption": ""
             },
             {
@@ -66,7 +117,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAvwFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T04:11:53.664Z",
               "EditorCaption": ""
