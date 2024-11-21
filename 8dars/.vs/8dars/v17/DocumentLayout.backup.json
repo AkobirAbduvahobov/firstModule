@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{B4F1321D-8E88-491E-B517-BB2AE6AABE95}|8dars.csproj|d:\\projects\\.net projects(console)\\firstmodule\\8dars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4F1321D-8E88-491E-B517-BB2AE6AABE95}|8dars.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F1321D-8E88-491E-B517-BB2AE6AABE95}|8dars.csproj|d:\\projects\\.net projects(console)\\firstmodule\\8dars\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F1321D-8E88-491E-B517-BB2AE6AABE95}|8dars.csproj|solutionrelative:planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F1321D-8E88-491E-B517-BB2AE6AABE95}|8dars.csproj|d:\\projects\\.net projects(console)\\firstmodule\\8dars\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F1321D-8E88-491E-B517-BB2AE6AABE95}|8dars.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 135,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +34,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Planet.cs",
+              "RelativeDocumentMoniker": "Planet.cs",
+              "ToolTip": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Planet.cs*",
+              "RelativeToolTip": "Planet.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:20:29.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:14:08.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Projects\\.Net Projects(Console)\\firstModule\\8dars\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T04:11:53.664Z",
               "EditorCaption": ""

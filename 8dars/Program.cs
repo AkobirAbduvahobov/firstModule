@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var planet1 = new Planet("yer","yaxshi joy", 4.5, true, true, 4);
+
+            Console.WriteLine(planet1.ToString());
+
         }
     }
 }
