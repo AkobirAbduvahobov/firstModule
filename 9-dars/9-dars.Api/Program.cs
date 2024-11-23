@@ -13,6 +13,17 @@ internal class Program
         Console.WriteLine("Tugadi");
 
     }
+
+
+    public void StartFrontEndPost()
+    {
+
+    }
+
+    public void StartFrontEndEvent()
+    {
+
+    }
 }
 
 

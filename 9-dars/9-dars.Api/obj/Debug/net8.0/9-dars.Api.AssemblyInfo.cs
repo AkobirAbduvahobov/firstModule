@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("9-dars.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a2222d3af55271618a3c16c746b1d007649653a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e75b16a04f92ba6ce5dd16e94a1e49a3d6665d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("9-dars.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("9-dars.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
