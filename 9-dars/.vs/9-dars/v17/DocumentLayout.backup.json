@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Projects\\.Net Projects(Console)\\firstModule\\9-dars\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AED60EF-BFF3-479B-8276-30F8B88CECDE}|9-dars.Api\\9-dars.Api.csproj|d:\\projects\\.net projects(console)\\firstmodule\\9-dars\\9-dars.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AED60EF-BFF3-479B-8276-30F8B88CECDE}|9-dars.Api\\9-dars.Api.csproj|solutionrelative:9-dars.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1AED60EF-BFF3-479B-8276-30F8B88CECDE}|9-dars.Api\\9-dars.Api.csproj|d:\\projects\\.net projects(console)\\firstmodule\\9-dars\\9-dars.api\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AED60EF-BFF3-479B-8276-30F8B88CECDE}|9-dars.Api\\9-dars.Api.csproj|solutionrelative:9-dars.api\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1AED60EF-BFF3-479B-8276-30F8B88CECDE}|9-dars.Api\\9-dars.Api.csproj|d:\\projects\\.net projects(console)\\firstmodule\\9-dars\\9-dars.api\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AED60EF-BFF3-479B-8276-30F8B88CECDE}|9-dars.Api\\9-dars.Api.csproj|solutionrelative:9-dars.api\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1AED60EF-BFF3-479B-8276-30F8B88CECDE}|9-dars.Api\\9-dars.Api.csproj|d:\\projects\\.net projects(console)\\firstmodule\\9-dars\\9-dars.api\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AED60EF-BFF3-479B-8276-30F8B88CECDE}|9-dars.Api\\9-dars.Api.csproj|solutionrelative:9-dars.api\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AED60EF-BFF3-479B-8276-30F8B88CECDE}|9-dars.Api\\9-dars.Api.csproj|d:\\projects\\.net projects(console)\\firstmodule\\9-dars\\9-dars.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AED60EF-BFF3-479B-8276-30F8B88CECDE}|9-dars.Api\\9-dars.Api.csproj|solutionrelative:9-dars.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AED60EF-BFF3-479B-8276-30F8B88CECDE}|9-dars.Api\\9-dars.Api.csproj|d:\\projects\\.net projects(console)\\firstmodule\\9-dars\\9-dars.api\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1237,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,12 +43,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net Projects(Console)\\firstModule\\9-dars\\9-dars.Api\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "9-dars.Api\\Services\\PostService.cs",
+              "ToolTip": "D:\\Projects\\.Net Projects(Console)\\firstModule\\9-dars\\9-dars.Api\\Services\\PostService.cs",
+              "RelativeToolTip": "9-dars.Api\\Services\\PostService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:06:36.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Post.cs",
               "DocumentMoniker": "D:\\Projects\\.Net Projects(Console)\\firstModule\\9-dars\\9-dars.Api\\Models\\Post.cs",
               "RelativeDocumentMoniker": "9-dars.Api\\Models\\Post.cs",
-              "ToolTip": "D:\\Projects\\.Net Projects(Console)\\firstModule\\9-dars\\9-dars.Api\\Models\\Post.cs*",
-              "RelativeToolTip": "9-dars.Api\\Models\\Post.cs*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAgAAAAAAAAAA==",
+              "ToolTip": "D:\\Projects\\.Net Projects(Console)\\firstModule\\9-dars\\9-dars.Api\\Models\\Post.cs",
+              "RelativeToolTip": "9-dars.Api\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T06:01:09.153Z",
               "EditorCaption": ""
@@ -64,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Car.cs",
               "DocumentMoniker": "D:\\Projects\\.Net Projects(Console)\\firstModule\\9-dars\\9-dars.Api\\Models\\Car.cs",
               "RelativeDocumentMoniker": "9-dars.Api\\Models\\Car.cs",
@@ -76,13 +93,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\.Net Projects(Console)\\firstModule\\9-dars\\9-dars.Api\\Program.cs",
               "RelativeDocumentMoniker": "9-dars.Api\\Program.cs",
-              "ToolTip": "D:\\Projects\\.Net Projects(Console)\\firstModule\\9-dars\\9-dars.Api\\Program.cs*",
-              "RelativeToolTip": "9-dars.Api\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Projects\\.Net Projects(Console)\\firstModule\\9-dars\\9-dars.Api\\Program.cs",
+              "RelativeToolTip": "9-dars.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T03:59:24.843Z",
               "EditorCaption": ""

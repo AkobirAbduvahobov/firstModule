@@ -25,5 +25,19 @@ public class PostService
 
     }
 
+    public bool AddCommentToPost(Guid postId, string comment)
+    {
+
+    }
+
+    public bool AddViewerNameToPost(Guid postId, string viewerName)
+    {
+
+    }
+
+    public bool AddLikeToPost(Guid postId)
+    {
+
+    }
 
 }
