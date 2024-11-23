@@ -1,0 +1,7 @@
+add gitIgnore : echo "# Add files/folders to ignore" > .gitignore
+add readme    : echo "# Project Title" > README.md
+
+git clone
+git add .
+git commit -m ""
+git push
