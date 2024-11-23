@@ -1,0 +1,15 @@
+D:\Projects\.Net Projects(Console)\firstModule\9-dars\9-dars.Api\bin\Debug\net8.0\9-dars.Api.exe
+D:\Projects\.Net Projects(Console)\firstModule\9-dars\9-dars.Api\bin\Debug\net8.0\9-dars.Api.deps.json
+D:\Projects\.Net Projects(Console)\firstModule\9-dars\9-dars.Api\bin\Debug\net8.0\9-dars.Api.runtimeconfig.json
+D:\Projects\.Net Projects(Console)\firstModule\9-dars\9-dars.Api\bin\Debug\net8.0\9-dars.Api.dll
+D:\Projects\.Net Projects(Console)\firstModule\9-dars\9-dars.Api\bin\Debug\net8.0\9-dars.Api.pdb
+D:\Projects\.Net Projects(Console)\firstModule\9-dars\9-dars.Api\obj\Debug\net8.0\9-dars.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.Net Projects(Console)\firstModule\9-dars\9-dars.Api\obj\Debug\net8.0\9-dars.Api.AssemblyInfoInputs.cache
+D:\Projects\.Net Projects(Console)\firstModule\9-dars\9-dars.Api\obj\Debug\net8.0\9-dars.Api.AssemblyInfo.cs
+D:\Projects\.Net Projects(Console)\firstModule\9-dars\9-dars.Api\obj\Debug\net8.0\9-dars.Api.csproj.CoreCompileInputs.cache
+D:\Projects\.Net Projects(Console)\firstModule\9-dars\9-dars.Api\obj\Debug\net8.0\9-dars.Api.sourcelink.json
+D:\Projects\.Net Projects(Console)\firstModule\9-dars\9-dars.Api\obj\Debug\net8.0\9-dars.Api.dll
+D:\Projects\.Net Projects(Console)\firstModule\9-dars\9-dars.Api\obj\Debug\net8.0\refint\9-dars.Api.dll
+D:\Projects\.Net Projects(Console)\firstModule\9-dars\9-dars.Api\obj\Debug\net8.0\9-dars.Api.pdb
+D:\Projects\.Net Projects(Console)\firstModule\9-dars\9-dars.Api\obj\Debug\net8.0\9-dars.Api.genruntimeconfig.cache
+D:\Projects\.Net Projects(Console)\firstModule\9-dars\9-dars.Api\obj\Debug\net8.0\ref\9-dars.Api.dll
