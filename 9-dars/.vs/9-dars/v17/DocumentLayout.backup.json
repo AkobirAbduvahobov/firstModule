@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{1AED60EF-BFF3-479B-8276-30F8B88CECDE}|9-dars.Api\\9-dars.Api.csproj|d:\\projects\\.net projects(console)\\firstmodule\\9-dars\\9-dars.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AED60EF-BFF3-479B-8276-30F8B88CECDE}|9-dars.Api\\9-dars.Api.csproj|solutionrelative:9-dars.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AED60EF-BFF3-479B-8276-30F8B88CECDE}|9-dars.Api\\9-dars.Api.csproj|d:\\projects\\.net projects(console)\\firstmodule\\9-dars\\9-dars.api\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AED60EF-BFF3-479B-8276-30F8B88CECDE}|9-dars.Api\\9-dars.Api.csproj|solutionrelative:9-dars.api\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AED60EF-BFF3-479B-8276-30F8B88CECDE}|9-dars.Api\\9-dars.Api.csproj|d:\\projects\\.net projects(console)\\firstmodule\\9-dars\\9-dars.api\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AED60EF-BFF3-479B-8276-30F8B88CECDE}|9-dars.Api\\9-dars.Api.csproj|solutionrelative:9-dars.api\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AED60EF-BFF3-479B-8276-30F8B88CECDE}|9-dars.Api\\9-dars.Api.csproj|d:\\projects\\.net projects(console)\\firstmodule\\9-dars\\9-dars.api\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AED60EF-BFF3-479B-8276-30F8B88CECDE}|9-dars.Api\\9-dars.Api.csproj|solutionrelative:9-dars.api\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1237,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,6 +35,44 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net Projects(Console)\\firstModule\\9-dars\\9-dars.Api\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "9-dars.Api\\Models\\Post.cs",
+              "ToolTip": "D:\\Projects\\.Net Projects(Console)\\firstModule\\9-dars\\9-dars.Api\\Models\\Post.cs*",
+              "RelativeToolTip": "9-dars.Api\\Models\\Post.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:01:09.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net Projects(Console)\\firstModule\\9-dars\\9-dars.Api\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "9-dars.Api\\Services\\CarService.cs",
+              "ToolTip": "D:\\Projects\\.Net Projects(Console)\\firstModule\\9-dars\\9-dars.Api\\Services\\CarService.cs",
+              "RelativeToolTip": "9-dars.Api\\Services\\CarService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T04:14:34.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net Projects(Console)\\firstModule\\9-dars\\9-dars.Api\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "9-dars.Api\\Models\\Car.cs",
+              "ToolTip": "D:\\Projects\\.Net Projects(Console)\\firstModule\\9-dars\\9-dars.Api\\Models\\Car.cs",
+              "RelativeToolTip": "9-dars.Api\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T04:13:33.239Z"
             },
             {
               "$type": "Document",

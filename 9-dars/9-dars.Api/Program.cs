@@ -1,10 +1,17 @@
-﻿namespace _9_dars.Api;
+﻿using _9_dars.Api.Models;
+
+namespace _9_dars.Api;
 
 internal class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Post post = new Post();
+
+        post.Comments.Add("Ikkichilar");
+
+        Console.WriteLine("Tugadi");
+
     }
 }
 
