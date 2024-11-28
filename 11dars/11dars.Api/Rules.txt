@@ -1,0 +1,16 @@
+static
+
+static props, methodlar bular class ga tegishli
+non-static props, methodlar object ga tegishli.
+
+non-static can call => static va non-static 
+
+static can call => static 
+
+
+tasks
+
+1. string berilgan. Agar shu string "salom" bn boshlansa "salom" ni o'chirib tashlab aks xolda o'zini qaytaring.
+
+
+2. List<string> berilgan. Listdagi 5 ta katta harfga ega bo'lgan elementlarini sonini qaytaring.
